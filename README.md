@@ -1,54 +1,62 @@
-# Silhouette Cameo 2spi
+# Silhouette Cameo sp33d
 
-**Ou comment utiliser plus ou moins en autonomie la Silhouette Cameo pour découper du vinyle, papier, et ainsi de suite.**
+**How to use the Silhouette Cameo with almost full autonomy, to cut vinyl, paper, etc.**
 
 <!--gif-->
 
-## Mise en place
+## Set up
 
 ![Screenshot du logiciel](./images/screen1.png)
 
-Commencer par installer le [logiciel Silhouette Studio](https://www.silhouettefr.fr/applications-logiciels/), et faire glisser le png à imprimer sur la surface de découpe.
+Start by installing and opening the [Silhouette Studio software](https://www.silhouettefr.fr/applications-logiciels/).
+Then drag and drop the png you want to cut on the cutting area.
 
 ![Screenshot du png](./images/screen2.png)
 
-Il faut utiliser un png à fond transparent, permettant la découpe entre la partie pleine et la partie vide.
-Il faut donc vérifier que les traits rouges sur le png représentant les traits à découper sont bien placés et complets, vérifier la taille, et laisser un petit écart avec le bord.
+You need to use a png with a transparent background so the software will create the cut between the transparent and full parts of the image.
 
-Une fois que tous les motifs à découper sont placés sur la surface dans le logiciel, on peux brancher, ouvrir et allumer la Cameo.
+You can check that the red line representing the cut is well placed and complete, check the size of your cutting, and leave a small space between the cut and the edge of the cutting area.
 
-## Envoi du motif à découper
+when all of your images to cut are placed of the area in the software, you can plug in, open and turn on the Cameo.
+
+## Sending the cutting pattern
 
 ![Screenshot du logiciel en mode Design](./images/screen3.png)
 
-Passer du mode Design au mode Envoyer en haut à droite dans le logiciel, puis brancher la Cameo en USB. 
+Go from the `DESIGN` mode to the `SEND` ("ENVOYER") mode at the top right corner in the software, then plug in the Cameo in USB to the computer.
 
 ![Screenshot de la machine dans le logiciel](./images/screen4.png)
 
-Vérifier qu'elle est disponible en bas à droite dans le mode Envoyer.
+Check that the Cameo is available at the bottom right in the `SEND` mode.
 
-Récupérer la plaque en plastique de découpe et enlever le papier bleu de la zone collante, et coller du vinyle bien à plat dessus. Vérifier que toute la zone est couverte, ou du moins la zone sur laquelle on a des motifs à découper.
+Take the plastic cutting sheet and take off the blue paper from the sticky surface.
+
+Place your vinyl/paper/whatever all nice and flat on the sticky surface.
+
+Make sure the whole surface is covered, or at least the area where you have patterns to be cut.
 
 ![Screenshot de la plaque calée sur la machine](./images/screen5.png)
 
-Caler la plaque de découpe dans le coin sur la Cameo, et appuyer sur le bouton flèche vers le haut 🔼 pour engager la plaque.
+Place the cutting sheet in the left corner of the Cameo, and press the up arrow button 🔼 to engage the sheet.
 
 ![Screenshot du logiciel en mode Envoyer](./images/screen6.png)
 
-Dans le mode Envoyer, sélectionner le type de matériau à découper puis cliquer sur le bouton Envoyer.
+In the `SEND` mode, select the type of material you want to cut, then click on the `SEND` ("ENVOYER") button.
 
-**Point matériau :**
-- Vinyle, Mat = les vinyles de base, en rouleau ou en plaque, pas besoin de modifier les valeurs de découpe
-- Feuille d'autocollant métallique brossé = plaques de cuivre, pour ne pas découper le support carton de la plaque de cuivre, c'est mieux de baisser la force de la lame à 18.
+**Materials informations :**
+- Vinyl, Mat = the basic vinyls, in rolls or in sheets, no need to modify the cutting numbers.
+- Metallic sticker sheet : copper sheets, to make sure you don't cut through the cardboard support of the cooper sheet it is better to lower the strength of the blade to 18.
 
-## Récuperer le sticker
+## Finishing the sticker
 
-Une fois la découpe finie, après que la lame soit retournée se placer tout à gauche de la Cameo, appuyer sur le bouton flèche vers le bas 🔽 pour libérer la plaque de découpe.
+Once the cutting is done, after the blade go back to the top left corner of the Cameo, you can press the down arrow button 🔽 to disengage the cutting sheet.
 
-Décoller doucement la plaque de vinyle de la plaque en plastique, et remettre soigneusement le papier bleu sur la plaque.
-Découper au ciseau autour du motif découpé, et enlever tout le vinyle de contreforme. 
+Slowly peel off the vinyl/whatever sheet from the cutting sheet, and neatly place back the blue paper on the cutting sheet.
+
+With scissors, cut around your pattern, and take off the vinyl/whatev around your sticker.
 
 <!--gif d'enlever la contreforme-->
 
-Si besoin, mettre du scotch de peintre ou de l'autocollant de transfert par dessus le motif découpé pour le caler avant de le coller. Enlever le support de vinyle en dessous, le coller, frotter pour enlever les bulles d'air puis enlever le scotch par dessus.
-# SilhouetteCameo_sp33d
+If needed (if your sticker is in multiple pieces, very intricate, or letters for example), put painter's tape or transfert sticker on the cut pattern, to hold everything together, before sticking it.
+
+Take off the support sheet underneath the vinyl, stick your sticker wherever, rub it to avoid bubble, then take off the tape/transfert sticker.
