@@ -1,6 +1,6 @@
 # Silhouette Cameo sp33d
 
-**How to use the Silhouette Cameo with almost full autonomy, to cut vinyl, paper, etc.**
+**On how to use the Silhouette Cameo with almost full autonomy, to cut vinyl, paper, etc.**
 
 <!--gif-->
 
